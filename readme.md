@@ -1086,3 +1086,4 @@
  - [gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
  - [phenomic](https://github.com/MoOx/phenomic) - Modern static* website generator based on the React and Webpack ecosystem.
  - [sitegen](https://github.com/andreypopp/sitegen) - Generate websites by composing React components.
+ - [react-static](https://github.com/nozzle/react-static) - A progressive static-site generator for React.
